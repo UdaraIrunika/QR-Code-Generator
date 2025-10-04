@@ -1,18 +1,35 @@
 📌 QR Code Generator
+
 A simple and customizable QR Code Generator built with HTML, CSS, and JavaScript.
 This tool allows users to create QR codes instantly by entering text, URLs, or contact details.
+
 🚀 Features
-Generate QR codes for any text, link, or data.
-Clean and responsive user interface.
-Fast and lightweight – works directly in the browser.
-Easy to customize and integrate into other projects.
+
+Generate QR codes for any text, link, or data
+
+Clean and responsive user interface
+
+Fast and lightweight – works directly in the browser
+
+Easy to customize and integrate into other projects
+
 🛠️ Tech Stack
-HTML5 , CSS3 ,JavaScript
+
+HTML5
+
+CSS3
+
+JavaScript
+
 🎯 Use Cases
+
 Share links quickly
+
 Create QR codes for business cards or portfolios
+
 Generate codes for Wi-Fi access, contact info, and more
-Download Code Using This Github Link: https://github.com/UdaraIrunika/QR-Code-Generator
+
+🔗 Download or explore the code here: QR Code Generator
 
 <img width="514" height="389" alt="Screenshot 2025-10-03 183651" src="https://github.com/user-attachments/assets/43296c56-898b-4a22-ad0f-6380a8204840" />
 <img width="434" height="600" alt="Screenshot 2025-10-03 183714" src="https://github.com/user-attachments/assets/03818287-bb26-46d6-994b-bc94bd5532f6" />
